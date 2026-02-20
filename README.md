@@ -1,4 +1,5 @@
 ⚽  TF-IDF Keyword Extractor
+
 A simple NLP demonstration that applies TF-IDF (Term Frequency–Inverse Document Frequency) vectorization to a football-themed text corpus. It identifies the most meaningful keywords in individual sentences and across the full document collection.
 
 What It Does
